@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body {
+  background-color: #1069AF;
+  text-align: center;
+}
+table {
+  margin:auto ;
+}
+.container {
+  margin-top: 10rem;
+  background-color: #fff;
+  padding:60px;
+  border-radius: 10px;
+  position: relative;
+  width: 600px;
+}
+.fm {
+background-color: #E6F0FF;
+}
+.bt{
+  background-color: #52cb5a;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 20px;
+}
+h1{
+  font-size: 55px;
+  margin-bottom: 60px;
+}
+input[type="text"],
+input[type="password"],
+input[type="submit"],
+select,
+textarea {
+  width: 400px;
+  padding: 10px;
+  border: 1px;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
