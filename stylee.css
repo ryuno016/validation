@@ -1,12 +1,32 @@
-table {
-  border-collapse: collapse;
+body {
+  font-family: sans-serif;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+form {
+  width: 400px;
+  margin: 0 auto;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="tel"] {
   width: 100%;
-}
-th, td {
-  border: 1px solid #ddd;
   padding: 8px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
 }
-th {
-  background-color: #f2f2f2;
-  text-align: left;
+
+.error-message {
+  color: red;
+  font-size: 12px;
+  margin-top: 5px;
 }
