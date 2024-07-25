@@ -1,0 +1,202 @@
+[
+  {
+    "employee_name": "田中 太郎",
+    "furigana": "たなか たろう",
+    "date_of_birth": "1990年5月15日",
+    "age": 33,
+    "hire_date": "2015年4月1日",
+    "address": "東京都渋谷区 Shibuya Street 123-456",
+    "phone_number": "03-1234-5678",
+    "department": "技術開発部"
+  },
+  {
+    "employee_name": "山田 花子",
+    "furigana": "やまだ はなこ",
+    "date_of_birth": "1988年8月20日",
+    "age": 35,
+    "hire_date": "2012年10月5日",
+    "address": "大阪府大阪市 Osaka Street 789-012",
+    "phone_number": "06-9876-5432",
+    "department": "営業部"
+  },
+  {
+    "employee_name": "佐藤 健太",
+    "furigana": "さとう けんた",
+    "date_of_birth": "1985年3月8日",
+    "age": 38,
+    "hire_date": "2007年6月12日",
+    "address": "札幌市北区 Sapporo Street 456-789",
+    "phone_number": "011-2345-6789",
+    "department": "人事部"
+  },
+  {
+    "employee_name": "鈴木 美咲",
+    "furigana": "すずき みさき",
+    "date_of_birth": "1995年11月3日",
+    "age": 28,
+    "hire_date": "2020年2月28日",
+    "address": "福岡市中央区 Fukuoka Street 234-567",
+    "phone_number": "092-3456-7890",
+    "department": "財務部"
+  },
+  {
+    "employee_name": "中村 勇太",
+    "furigana": "なかむら ゆうた",
+    "date_of_birth": "1983年7月17日",
+    "age": 40,
+    "hire_date": "2005年9月10日",
+    "address": "名古屋市中区 Nagoya Street 345-678",
+    "phone_number": "052-7890-1234",
+    "department": "研究開発部"
+  },
+  {
+    "employee_name": "伊藤 美香",
+    "furigana": "いとう みか",
+    "date_of_birth": "1992年4月25日",
+    "age": 32,
+    "hire_date": "2018年8月15日",
+    "address": "京都市東山区 Kyoto Street 567-890",
+    "phone_number": "075-6789-0123",
+    "department": "マーケティング部"
+  },
+  {
+    "employee_name": "木村 太一",
+    "furigana": "きむら たいち",
+    "date_of_birth": "1987年12月7日",
+    "age": 36,
+    "hire_date": "2011年3月22日",
+    "address": "神戸市中央区 Kobe Street 678-901",
+    "phone_number": "078-9012-3456",
+    "department": "製造部"
+  },
+  {
+    "employee_name": "高橋 真悠子",
+    "furigana": "たかはし まゆこ",
+    "date_of_birth": "1994年9月14日",
+    "age": 29,
+    "hire_date": "2019年5月8日",
+    "address": "広島市南区 Hiroshima Street 789-012",
+    "phone_number": "082-3456-7890",
+    "department": "営業部"
+  },
+  {
+    "employee_name": "吉田 大輔",
+    "furigana": "よしだ だいすけ",
+    "date_of_birth": "1980年6月30日",
+    "age": 43,
+    "hire_date": "2003年11月18日",
+    "address": "仙台市青葉区 Sendai Street 123-456",
+    "phone_number": "022-7890-1234",
+    "department": "IT部"
+  },
+  {
+    "employee_name": "宮田 さくら",
+    "furigana": "みやた さくら",
+    "date_of_birth": "1997年1月12日",
+    "age": 26,
+    "hire_date": "2021年7月3日",
+    "address": "熊本市中央区 Kumamoto Street 234-567",
+    "phone_number": "096-8901-2345",
+    "department": "デザイン部"
+  },
+  {
+    "employee_name": "藤本 啓介",
+    "furigana": "ふじもと けいすけ",
+    "date_of_birth": "1986年2月18日",
+    "age": 37,
+    "hire_date": "2009年8月7日",
+    "address": "福島市福島区 Fukushima Street 345-678",
+    "phone_number": "024-5678-9012",
+    "department": "営業部"
+  },
+  {
+    "employee_name": "野口 美和",
+    "furigana": "のぐち みわ",
+    "date_of_birth": "1993年10月5日",
+    "age": 30,
+    "hire_date": "2017年1月25日",
+    "address": "札幌市中央区 Sapporo Street 567-890",
+    "phone_number": "011-7890-1234",
+    "department": "マーケティング部"
+  },
+  {
+    "employee_name": "岡田 健太郎",
+    "furigana": "おかだ けんたろう",
+    "date_of_birth": "1984年11月28日",
+    "age": 39,
+    "hire_date": "2006年4月16日",
+    "address": "仙台市青葉区 Sendai Street 789-012",
+    "phone_number": "022-9012-3456",
+    "department": "技術開発部"
+  },
+  {
+    "employee_name": "西川 さやか",
+    "furigana": "にしかわ さやか",
+    "date_of_birth": "1991年7月9日",
+    "age": 32,
+    "hire_date": "2016年11月2日",
+    "address": "名古屋市中区 Nagoya Street 901-234",
+    "phone_number": "052-3456-7890",
+    "department": "研究開発部"
+  },
+  {
+    "employee_name": "村田 優介",
+    "furigana": "むらた ゆうすけ",
+    "date_of_birth": "1989年3月22日",
+    "age": 34,
+    "hire_date": "2014年6月8日",
+    "address": "広島市南区 Hiroshima Street 123-456",
+    "phone_number": "082-7890-1234",
+    "department": "IT部"
+  },
+  {
+    "employee_name": "井上 美穂",
+    "furigana": "いのうえ みほ",
+    "date_of_birth": "1996年8月10日",
+    "age": 27,
+    "hire_date": "2022年3月15日",
+    "address": "福岡市中央区 Fukuoka Street 234-567",
+    "phone_number": "092-5678-9012",
+    "department": "デザイン部"
+  },
+  {
+    "employee_name": "加藤 勇樹",
+    "furigana": "かとう ゆうき",
+    "date_of_birth": "1982年5月3日",
+    "age": 41,
+    "hire_date": "2004年9月20日",
+    "address": "京都市東山区 Kyoto Street 567-890",
+    "phone_number": "075-6789-0123",
+    "department": "製造部"
+  },
+  {
+    "employee_name": "田口 美沙",
+    "furigana": "たぐち みさ",
+    "date_of_birth": "1998年12月15日",
+    "age": 25,
+    "hire_date": "2023年2月10日",
+    "address": "熊本市中央区 Kumamoto Street 678-901",
+    "phone_number": "096-7890-1234",
+    "department": "財務部"
+  },
+  {
+    "employee_name": "渡辺 雄太",
+    "furigana": "わたなべ ゆうた",
+    "date_of_birth": "1981年4月7日",
+    "age": 42,
+    "hire_date": "2002年7月30日",
+    "address": "大阪府大阪市 Osaka Street 345-678",
+    "phone_number": "06-9012-3456",
+    "department": "人事部"
+  },
+  {
+    "employee_name": "小林 さゆり",
+    "furigana": "こばやし さゆり",
+    "date_of_birth": "1999年6月5日",
+    "age": 24,
+    "hire_date": "2024年5月1日",
+    "address": "神戸市中央区 Kobe Street 901-234",
+    "phone_number": "078-3456-7890",
+    "department": "マーケティング部"
+  }
+]
