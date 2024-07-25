@@ -13,8 +13,8 @@ loginForm.addEventListener('submit', (event) => {
         userIdInput.classList.add('input-error');
         isValid = false;
     } else {
-        userIdError.textContent = ''; 
-        userIdInput.classList.remove('input-error'); 
+        userIdError.textContent = '';
+        userIdInput.classList.remove('input-error');
     }
 
     // パスワードのバリデーション
