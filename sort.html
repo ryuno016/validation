@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>社員情報ソート</title>
+        <link rel="stylesheet" href="sort.css">
+    </head>
+    <body>
+        <h2>社員情報ソート</h2>
+        <label for="sortSelect">ソート対象:</label>
+        <select id="sortSelect">
+            <option value="">名前（通常）</option>
+            <option value="nameAsc">名前（昇順）</option>
+            <option value="nameDesc">名前（降順）</option>
+            <option value="ageAsc">年齢（昇順）</option>
+            <option value="ageDesc">年齢（降順）</option>
+        </select>
+        <button id="sortButton">ソート</button>
+        <table id="employeeTable"></table>
+        <script src="sort.js"></script>
+    </body>
+</html>
