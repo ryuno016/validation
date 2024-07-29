@@ -1,0 +1,13 @@
+#searchArea {
+  margin-bottom: 10px;
+}
+
+#employeeTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#employeeTable th, #employeeTable td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
